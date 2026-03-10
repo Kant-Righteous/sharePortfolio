@@ -37,7 +37,7 @@ limitations under the License.
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
     <sonar.organization>kant-righteous</sonar.organization>
-    <sonar.projectKey>kant-righteous_sharePortfolio</sonar.projectKey>
+    <sonar.projectKey>Kant-Righteous_sharePortfolio</sonar.projectKey>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.java.libraries></sonar.java.libraries>
 </properties>
